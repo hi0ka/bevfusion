@@ -36,13 +36,13 @@ object_classes:
 
 map_classes:
   - drivable_area
-  # - drivable_area*
+  - drivable_area*
   - ped_crossing
   - walkway
   - stop_line
   - carpark_area
-  # - road_divider
-  # - lane_divider
+  - road_divider
+  - lane_divider
   - divider
 
 input_modality:
